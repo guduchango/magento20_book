@@ -1,0 +1,1 @@
+/var/www/html/magento20/app/code/Magento/AdminNotification/view/adminhtml/web/system/notification.js
