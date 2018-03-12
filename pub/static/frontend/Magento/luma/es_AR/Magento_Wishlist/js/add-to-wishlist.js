@@ -1,1 +1,0 @@
-/var/www/html/magento20/app/code/Magento/Wishlist/view/frontend/web/js/add-to-wishlist.js

@@ -1,1 +1,0 @@
-/var/www/html/magento20/app/code/Magento/ProductVideo/view/frontend/web/js/fotorama-add-video-events.js

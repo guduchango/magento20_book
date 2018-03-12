@@ -1,1 +1,0 @@
-/var/www/html/magento20/lib/web/mage/gallery/gallery.js
